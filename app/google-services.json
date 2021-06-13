@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498587701520",
+    "project_id": "musicchat-8b717",
+    "storage_bucket": "musicchat-8b717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498587701520:android:fefb0a7d8f56435be01595",
+        "android_client_info": {
+          "package_name": "com.mayank_amr.musicchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498587701520-mg6otbqpsn068cgboghf1qiuj0sp2phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsg85_fHzh7AxL8fEuCMxX4ewixPDLFfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498587701520-mg6otbqpsn068cgboghf1qiuj0sp2phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
